@@ -1,0 +1,48 @@
+table {
+    width: 80%;
+    margin: auto;
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+.row1 {
+    background-color: cadetblue;
+    border: 2px solid blue;
+}
+
+.row1 img {
+    border: 2px black solid;
+}
+
+.row2 {
+    text-align: center;
+}
+
+.row2 p {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.row3 td {
+    background-color: burlywood;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.row3 {
+    font-size: 30px;
+}
+
+.row3 .img-container {
+    margin: auto;
+}
+
+.row3 img {
+    border-radius: 10px;
+}
+
+.img-container {
+    width: 60%;
+}
